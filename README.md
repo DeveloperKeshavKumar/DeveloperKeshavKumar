@@ -24,9 +24,9 @@ Working on a freelance project.
 const developer = {
   role: "Full-Stack Web Developer",
   focus: [
-    "Preparing for GATE 2026",
-    "Buiding YAFS",
-    "Learning System Design"
+    "Working of Frappe/ERPNext"
+    "Building something to ease in Frappe Env.",
+    "Learning AI",
   ],
   availability: "Open to full-time and freelance opportunities"
 };
